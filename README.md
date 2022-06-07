@@ -18,3 +18,7 @@ REQUIRES SU for the usb communication
 Usage: "sudo python3 g933battery.py"
 
 Returns: "Battery:~86% (estimated from:2/2,151/255) Status: Idle"
+
+#FOR G935#
+
+Replace the PID "0x0a5" by "0xa87" in the python script.
